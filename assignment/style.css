@@ -5,12 +5,15 @@ body{
 /* Make the header and footer a different color from the background */
 header, footer{
     background-color: dodgerblue;
-    padding: 10px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1{
     text-align: center;
 }
+h2{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}  
 /* Make your p tag a different color and italic */
 p{
     color: white;
