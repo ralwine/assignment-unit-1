@@ -1,9 +1,11 @@
 /* Give your page a fun background color */
 body{
-    background-color: dodgerblue;
+    background-color: gold;
 }
 /* Make the header and footer a different color from the background */
-
+header, footer{
+    background-color: dodgerblue;
+}
 /* Align the h1 containing your name in the center of the header*/
 h1{
     text-align: center;
