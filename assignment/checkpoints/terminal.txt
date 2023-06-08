@@ -17,6 +17,6 @@ git version 2.33.0
 # 8 - Why would you run the command 'git status'?
 It will show you what modifications you have made.
 # 9 - What does the command 'git add .' do?
-Adds files that are for 'commit' to the staging area.
+Adds files that are ready for 'commit' to the staging area.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin main
